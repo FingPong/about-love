@@ -56,9 +56,13 @@
       </div>
     </div>
       
-    <audio src="./sound/y2mate.com - 235  TRI x CammieLyrics VideoMeens.mp3" autoplay></audio>
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <audio id="autoplay">
+      <source src="./sound/y2mate.com - 235  TRI x CammieLyrics VideoMeens.mp3">
+    </audio>
+    
+    <script>
+      document.getElementById('autoplay').play();
+    </script>
     <script
       src="https://code.jquery.com/jquery-3.4.1.js"
       integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
