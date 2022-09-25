@@ -1,7 +1,7 @@
 const textConfig = {
   text1: "Hế Lu em!",
   text2: "Anh có điều này muốn hỏi em rằng nhưng nhớ trả lời thật lòng nha",
-  text3: "Đọc đi rồi cho a câu trả lời :))",
+  text3: "Đọc đi ngại lém :))",
   text4: "Chào em, well thì em nhìn cái web này thì cũng đủ hiểu nó là cái gì rồi. Anh cũng nói lun không lòng vòng là ANH THÍCH EM từ khi hc chung QP3 rồi. Kiểu như trong lớp đó a chỉ tia mỗi mình em thui nên cũng chả biết sao a tia, nói chung là bị ấn tượng v đó. Hmmm giờ nên nói gì nữa ta, thật sự a không giỏi trong việc ăn nói gây cảm lạnh hay lãng mạng gì đâu. Chắc mấy câu mà ngôn tình không phù hợp với anh lắm, a chỉ nghĩ sao nói v thích là thích chứ không chiêm thêm gì nhiều. Vì vậy, hì khúc này hơi gây cấn. Vì vậy, a chỉ hy vọng xin phép em cho a một cơ hội để được quen em được hum ạ ?",
   text5: "No :333",
   text6: "Oki nè <3",
