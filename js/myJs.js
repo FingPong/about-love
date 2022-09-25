@@ -2,7 +2,7 @@ const textConfig = {
   text1: "Hế Lu em!",
   text2: "Anh có điều này muốn hỏi em rằng nhưng nhớ trả lời thật lòng nha",
   text3: "Đọc đi rồi cho a câu trả lời :))",
-  text4: "Thì bữa giờ a cũng ấp úng ko dám nói ra. Tại sợ nếu mà nói thì sẽ mất đi, còn nếu không nói thì rất ấm ức trong lòng. Thực ra thì a đã thích em từ khi học chung QP3 r. Anh thì em biết mà dân CNTT thì cũng kiệm lời với lại a cũng không biết nói sao mà kiểu hợp lí cả. Nói chung thì đây là lần đầu tiên trong đời a nói điều này, 12 năm học phổ thông và 2 năm đh a chưa từng bao h nói những điều này nhưng giờ thì a phải dũng cảm để nói mắc công rất ấm ức. Vậy a chỉ hi vọng em cho a một cơ hội để xin phép để làm quen em được hum ?",
+  text4: "Anh ngại ngùng không dám nói ra. Tại sợ nếu mà nói thì sẽ mất đi, còn nếu không nói thì rất ấm ức trong lòng. Thực ra thì a đã thích em từ khi học chung QP3 r. Kiểu không biết trong lớp rất nhiều đứa nhưng a chỉ để ý mỗi em. Lạ thật!. Với lại, thì em biết mà dân CNTT thì cũng kiệm lời với lại a cũng không biết nói sao mà kiểu hợp lí cả. Với lại tấm lòng này là thật không giả dối hay cóp py từ nguồn khác. Vậy a chỉ hi vọng em cho a một cơ hội để xin phép để làm quen em được hum ?",
   text5: "No :333",
   text6: "Oki nè <3",
   text7: "Cho anh xin lý do em chọn có đi ?",
