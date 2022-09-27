@@ -69,7 +69,7 @@ header h4 {
     position: absolute;
     display: inline-block;
     left: 7%; 
-    top: 40vh;
+    top: 190vh;
     font-size: 14px;
     padding: 3px;
     -webkit-transition: all 0.1s ease-out;
@@ -78,7 +78,40 @@ header h4 {
     position: absolute;
     display: inline-block;
     left: 58%; 
-    top: 40vh;
+    top: 190vh;
+    font-size: 14px;
+    padding: 3px;
+    -webkit-transition: all 0.3s ease-out;
+  }
+}
+@media only screen and (max-width: 700px) {
+  header h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: azure;
+  }
+  header h4 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 15px;
+    color: azure
+  }
+  #no{
+    position: absolute;
+    display: inline-block;
+    left: 7%; 
+    top: 190vh;
+    font-size: 14px;
+    padding: 3px;
+    -webkit-transition: all 0.1s ease-out;
+  }
+  #yes{
+    position: absolute;
+    display: inline-block;
+    left: 58%; 
+    top: 190vh;
     font-size: 14px;
     padding: 3px;
     -webkit-transition: all 0.3s ease-out;
