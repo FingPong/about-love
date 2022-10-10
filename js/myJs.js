@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/profile.php?id=100015527324650";
+            window.location = "https://www.youtube.com/watch?v=neXPAg7fhlk";
           },
         });
       }
